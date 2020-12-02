@@ -1,2 +1,2 @@
 # VIbez
-This is music player for users audio files, with additional features and no paywall.
+This was a group project where we made music player for users audio files, with additional features like lyric search, music video search and no paywall. 
